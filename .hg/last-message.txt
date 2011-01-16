@@ -1,0 +1,1 @@
+DBHandler unterstuetzt dank neuem Constructor nuntheoretisch alle gaengigen dbms deren verbindung ueber einen jdbc treiber aufgebaut wird.
